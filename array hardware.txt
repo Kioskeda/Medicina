@@ -1,0 +1,28 @@
+const hardwareComputadora = [
+  // Componentes Internos (El "cerebro" y el "cuerpo")
+  "Procesador (CPU)",
+  "Memoria RAM",
+  "Placa Base (Motherboard)",
+  "Tarjeta Gráfica (GPU)",
+  "Fuente de Alimentación (PSU)",
+  "Disco Duro (HDD) o SSD",
+  "Sistema de Enfriamiento (Disipadores/Refrigeración Líquida)",
+
+  // Periféricos de Entrada (Para darle órdenes)
+  "Teclado",
+  "Ratón (Mouse)",
+  "Micrófono",
+  "Escáner",
+  "Cámara Web",
+
+  // Periféricos de Salida (Para ver/oír resultados)
+  "Monitor",
+  "Altavoces (Parlantes)",
+  "Auriculares",
+  "Impresora",
+
+  // Otros / Conectividad
+  "Tarjeta de Red (Wi-Fi/Ethernet)",
+  "Gabinete (Chasis)",
+  "Puertos USB/Thunderbolt"
+];

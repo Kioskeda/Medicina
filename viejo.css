@@ -1,0 +1,68 @@
+*{
+    text-align: center;
+}
+body{
+    background-image: url('./ImGs/background2.png');
+    background-repeat: repeat-x;
+    background-size: cover;
+    display: block;
+}
+header{
+    text-align: center;
+    border-radius: 20px;
+    font-size: small;
+    font-weight: 100;
+    font:bold;    
+}
+nav{
+    text-align: center;
+    justify-content: center;
+}
+.divcont{
+    display: block;
+}
+.asil{
+    position: fixed;
+    left: 0%;
+    top: 0%;
+    right: 72%;
+    background-color: white;
+    color: black;
+    display: block;
+}
+
+.divprin{
+    background-color: white;
+    color: black;
+    display: block;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 20px;
+    
+}
+.divsec{
+    background-color: aqua;
+    margin: 20px;
+    padding: 20px;
+    img{
+        width: 16%;
+        height: 16%;
+    }
+    display: block;
+    border-radius: 20px;
+}
+option, select, button{
+    background-color: black;
+    color: white;
+    margin: 20px;
+    height: 20px;
+    border-radius: 20px;
+}
+footer{
+    border: solid 1px white;
+    background-color: blak;
+    color: white;
+    left: 28%;
+    right: 0%;
+    top: 90%;
+}
