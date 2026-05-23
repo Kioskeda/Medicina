@@ -1,0 +1,30 @@
+<article>
+            <div class="divprin">
+                <div class="divsec">
+                    <fieldset>
+                        <legend>Papeleria:</legend>
+                        <script>
+                            document.write(paplist);
+                        </script>
+                    </fieldset>
+                    <fieldset>
+                        <legend>Dulceria:</legend>
+                        <script>
+                            document.write(paplist);
+                        </script>
+                    </fieldset>
+                    <fieldset>
+                        <legend>Software:</legend>
+                        <script>
+                            document.write(paplist);
+                        </script>
+                    </fieldset>
+                    <fieldset>
+                        <legend>Hardware:</legend>
+                        <script>
+                            document.write(paplist);
+                        </script>
+                    </fieldset>
+                </div>
+            </div>
+        </article>
