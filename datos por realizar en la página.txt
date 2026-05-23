@@ -1,0 +1,18 @@
+El cliente debe decir que es lo que necesita
+	enviar datos segun tramite a realizar
+	abrir whattsap para comunicacion
+		nombre completo
+		cédula
+		fecha de nacimiento
+		fecha de expedición
+		correo electronico y celular
+		Otros datos por whattsap
+
+
+	crear carrito de compras 
+		solicitando información para entrega de producto.
+		precio
+		info detallada
+		codigo qr para pagos.
+		domicilio pago contra entrega
+				
