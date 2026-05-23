@@ -195,19 +195,19 @@ function sws(){
 
         break;
     case 5:
-        window.open("./ImGs/prod and serv/PWEC.png");
+        window.open("./PWEC.png");
         break;
     case 6:
-        window.open("./ImGs/prod and serv/PWEC1.png");
+        window.open("./PWEC1.png");
         break;
     case 7:
-        window.open("./ImGs/prod and serv/PWEC2.png");
+        window.open("./PWEC2.png");
         break;
     case 8:
-        window.open("./ImGs/prod and serv/PWEC.png");
+        window.open("./PWEC.png");
         break;
     case 9:
-        window.open("./ImGs/prod and serv/PWEC1.png");
+        window.open("./PWEC1.png");
         break;
     case 10://Selector de certificados.
         //window.open("./index.html", "_blank");
@@ -247,30 +247,30 @@ function sws(){
         window.open("https://www.sisben.gov.co/Paginas/consulta-tu-grupo.html", "_blank");
         break;
     case 21:
-        window.open("./ImGs/prod and serv/PWEC2.png");
+        window.open("./PWEC2.png");
     case 22:
-        window.open("./ImGs/prod and serv/PWEC.png");
+        window.open("./PWEC.png");
         break;
     case 23:
-        window.open("./ImGs/prod and serv/PWEC1.png");
+        window.open("./PWEC1.png");
         break;
     case 24:
-        window.open("./ImGs/prod and serv/PWEC2.png");
+        window.open("./PWEC2.png");
         break;
     case 25:
-        window.open("./ImGs/prod and serv/PWEC.png");
+        window.open("./PWEC.png");
         break;
     case 26:
-        window.open("./ImGs/prod and serv/PWEC1.png");
+        window.open("./PWEC1.png");
         break;
     case 27:
-        window.open("./ImGs/prod and serv/PWEC2.png");
+        window.open("./PWEC2.png");
         break;
     case 28:
-        window.open("./ImGs/prod and serv/PWEC.png");
+        window.open("./PWEC.png");
         break;
     case 29:
-        window.open("./ImGs/prod and serv/PWEC1.png");
+        window.open("./PWEC1.png");
         break;
     case 30:
 
@@ -291,23 +291,23 @@ function sws(){
 
         break;
     case 36:
-        window.open("./ImGs/prod and serv/PWEC.png");
+        window.open("./PWEC.png");
         break;
     case 37:
-        window.open("./ImGs/prod and serv/PWEC.png");
+        window.open("./PWEC.png");
         break;
     case 38:
-        window.open("./ImGs/prod and serv/PWEC.png");
+        window.open("./PWEC.png");
         break;
     case 39:
-        window.open("./ImGs/prod and serv/PWEC.png");
+        window.open("./PWEC.png");
         break;
 
     default:
     }
 }
 function josecano(){
-    alert("Correo electrónico de contacto:.\ninfoprolearn@atomicmail.io");
+    alert("Correo electrónico de contacto:\ninfoprolearn@atomicmail.io\nkioskeda823@gmail.com");
     window.open("https://www.youtube.com/@josefernandocanopelaez7242");
 }
 
