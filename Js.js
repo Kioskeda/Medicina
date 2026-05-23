@@ -307,8 +307,8 @@ function sws(){
     }
 }
 function josecano(){
-    alert("Correo electrónico de contacto:\ninfoprolearn@atomicmail.io\nkioskeda823@gmail.com");
-    window.open("https://www.youtube.com/@josefernandocanopelaez7242");
+    alert("Informaci&oacute;n de contacto:\ninfoprolearn@atomicmail.io\nkioskeda823@gmail.com\n<b>Página web:</b> https://kioskeda.github.io/Medicina/");
+    window.open("https://www.youtube.com/@josefernandocanopelaez7242\n");
 }
 
 function ingarr(){
